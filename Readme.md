@@ -1,1 +1,1 @@
-# Ejercio Piedra Papel Tijeras
+# Ejercio Piedra Papel Tijeras (Lagarto, Spock)
