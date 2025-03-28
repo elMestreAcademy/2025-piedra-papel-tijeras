@@ -1,4 +1,20 @@
 
+nombre = [
+    "Piedra",
+    "Papel",
+    "Tijeras",
+    "Lagarto",
+    "Spock"
+]
+
+ganadoras = [
+    ["Tijeras", "Lagarto"],
+    ["Piedra", "Spock"],
+    ["Papel", "Lagarto"],
+    ["Papel", "Spock"],
+    ["Piedra", "Tijeras"]
+]
+
 frames = [
     """
     _______
